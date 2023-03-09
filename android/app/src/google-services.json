@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295647883945",
+    "project_id": "emailauth-affb0",
+    "storage_bucket": "emailauth-affb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295647883945:android:505eff612f5bd6bd126fb8",
+        "android_client_info": {
+          "package_name": "com.example.emailvarify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295647883945-05q8jci461necfgl3m3tfeqvf112dcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2qZcbyVEPhLAH3ohgAfeT6hj1_zNzUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295647883945-05q8jci461necfgl3m3tfeqvf112dcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
